@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Micah Okemeje (@Youngprilo)
 
 ## 👀 About Me  
-I’m a passionate Computer Science student at the University of Westminster with a strong interest in **software development, cloud computing, and cybersecurity**. I love solving complex problems and building innovative tech solutions.
+I’m a passionate Computer Science student at the University of Westminster(final year) with a strong interest in **software development, cloud computing, and cybersecurity**. I love solving complex problems and building innovative tech solutions.
 
 ## 🌱 Currently Learning  
 - **Cloud Computing** (AWS, Azure)  
