@@ -37,9 +37,6 @@ He/Him
 AWS Certified Cloud Practitioner
 AWS Certified solutions architect assosiate
 
-## ⚡ Fun Fact  
-I enjoy exploring new technologies, contributing to open-source, and staying active in the fitness world!  
-
 ---
 
 ✨ feel free to connect! 🚀  
