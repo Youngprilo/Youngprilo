@@ -30,8 +30,6 @@ Self-hosted Linux projects
 - **LinkedIn:** [Micah Okemeje](https://www.linkedin.com/in/micah-okemeje/)  
 - **GitHub:** [Youngprilo](https://github.com/Youngprilo)  
 
-## 😄 Pronouns  
-He/Him  
 
 ## Certifications
 AWS Certified Cloud Practitioner
