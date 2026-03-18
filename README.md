@@ -59,7 +59,7 @@ I enjoy working on cloud platforms, understanding how systems behave under load,
 ---
 
 ## ⚡CERTIFICATES
-AWS Cloud Practiotioner
-AWS Solutions Architect - Assosiate
-AWS CloudOps Engineer - Assosiate
+* AWS Cloud Practiotioner
+* AWS Solutions Architect - Assosiate
+* AWS CloudOps Engineer - Assosiate
 ---
